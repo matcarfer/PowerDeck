@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
-Power and ADB menu for TV boxes, phones and tablets. Made for the remote control.<br>
+Power and ADB menu for smart TVs with Android TV or Google TV, Android TV boxes, phones and tablets. On the TV, it works with the remote control.<br>
 No internet, no ads.<br>
 <b>Compatible with Android 5 to 16.</b>
 </p>

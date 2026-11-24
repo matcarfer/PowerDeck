@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
-Menú de energía y ADB para cajas de TV, celulares y tablets. Se maneja con el control remoto.<br>
+Menú de energía y ADB para Smart TVs con Android TV o Google TV, convertidores Smart Android, celulares y tablets. En la tele se maneja con el control remoto.<br>
 Sin internet, sin publicidad.<br>
 <b>Compatible con Android 5 a 16.</b>
 </p>
