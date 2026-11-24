@@ -15,11 +15,7 @@ No internet, no ads.<br>
   <img src="docs/1-principal.png" width="45%" alt="PowerDeck">
 </p>
 
-**Needs root** to shut down, reboot and the rest. Without root only the ADB part works, with a permission given once from a computer:
-
-```
-adb shell pm grant io.github.matcarfer.powerdeck android.permission.WRITE_SECURE_SETTINGS
-```
+**Needs root** to shut down, reboot and the rest. Without root only the ADB part works.
 
 <p align="center">
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a><br>

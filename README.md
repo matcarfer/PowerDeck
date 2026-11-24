@@ -15,11 +15,7 @@ Sin internet, sin publicidad.<br>
   <img src="docs/1-principal.png" width="45%" alt="PowerDeck">
 </p>
 
-**Necesita root** para apagar, reiniciar y lo demás. Sin root solo funciona la parte de ADB, con un permiso que se da una vez desde la compu:
-
-```
-adb shell pm grant io.github.matcarfer.powerdeck android.permission.WRITE_SECURE_SETTINGS
-```
+**Necesita root** para apagar, reiniciar y lo demás. Sin root solo funciona la parte de ADB.
 
 <p align="center">
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a><br>
