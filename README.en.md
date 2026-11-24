@@ -2,7 +2,7 @@
 
 <h1 align="center">PowerDeck</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/PowerDeck/releases/download/v1.7.0/PowerDeck-1.7.0.apk">⬇ Download APK</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/PowerDeck/releases/download/v1.7.1/PowerDeck-1.7.1.apk">⬇ Download APK</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
@@ -24,4 +24,4 @@ No internet, no ads.<br>
 
 ---
 
-<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/d0231f9b10809615171d637bb37260dc13f4efd942cbc46dccb2d78b0bdd4d80">VirusTotal</a></sub>
+<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/d6fc58dc94879111f55a324194da5c70424cc552ec45fb58bc1e8048435b3ac5">VirusTotal</a></sub>
